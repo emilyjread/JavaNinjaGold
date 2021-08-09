@@ -1,0 +1,19 @@
+.location{
+	width: 200px;
+	min-height: 250px;
+	background-color: darkgreen;
+	color: gold;
+	text-align: center;
+}
+
+.locs{
+	display: flex;
+	gap: 15px;
+	
+}
+
+.activities{
+	display: block;
+	max-height: 300px;
+	overflow-y: scroll;
+}
